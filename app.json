@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "4f816bec-d9f0-4f1d-8dd6-ab9571ae71cc"
+      }
+    },
+    "android": {
+      "package": "com.crccode3000.backend_appnative"
+    }
+  }
+}
